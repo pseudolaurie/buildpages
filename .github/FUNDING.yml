@@ -1,8 +1,3 @@
 # These are supported funding model platforms
 
-# My donation options
-
-github: TheLastGimbus
-ko_fi: thelastgimbus
-liberapay: TheLastGimbus
-custom: ["https://paypal.me/test", "https://www.buymeacoffee.com/TheLastGimbus"]
+custom: https://paypal.me/test
